@@ -48,4 +48,4 @@ Link : [EDA Notebook](https://github.com/LucianSala/mlproject/blob/main/notebook
 
 # Model Training Approach Notebook
 
-Link : [Model Training Notebook](https://github.com/LucianSala/mlproject/edit/main/README.md)
+Link : [Model Training Notebook](https://github.com/LucianSala/mlproject/blob/main/notebook/2.%20MODEL%20TRAINING.ipynb)
