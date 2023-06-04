@@ -44,8 +44,8 @@ Dataset Source Link :
 
 # Exploratory Data Analysis Notebook
 
-Link : [EDA Notebook](./notebook/1. EDA Student Data.ipynb)
+Link : [EDA Notebook](https://github.com/LucianSala/mlproject/edit/main/README.md)
 
 # Model Training Approach Notebook
 
-Link : [Model Training Notebook](./notebook/2. Model Training.ipynb)
+Link : [Model Training Notebook](https://github.com/LucianSala/mlproject/edit/main/README.md)
